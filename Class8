@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Operators & Loops</title>
+    </head>
+    <link rel="stylesheet" type="text/css" href="class6.css">
+    <body>
+        <h1>types of operators and loops</h1>
+        <ul>
+            <li>== is equal to</li>
+            <li>!= is not equal to</li>
+            <li>=== strict equal to</li>
+            <li>!=== strict not equal to</li>
+            <li>> Greater Than</li>
+            <li>< less than</li>
+            <li>>= greater than or equal to</li>
+            <li><= less than or equal to></li>
+        </ul>
+        <h1>Pages with examples in Duckett</h1>
+        <ul>
+            <li>Comparison and logical operators: 150-151, 156-157</li>
+            <li>For & WHile Loops: 170-173, 176</li>
+        </ul>
+     
+    </body>
+    <a href="https://gnewsome0408.github.io/demo-projects/learning">Go Back to Learning Journal</a>
+</html>
